@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://airocode.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url><loc>https://airocode.com/about-us</loc></url>
+  <url><loc>https://airocode.com/courses</loc></url>
+  <url><loc>https://airocode.com/contact-us</loc></url>
+  <url><loc>https://airocode.com/privacy-policy</loc></url>
+  <url><loc>https://airocode.com/terms-of-service</loc></url>
+  <url><loc>https://airocode.com/infrastructure</loc></url>
+  <url><loc>https://airocode.com/success-stories</loc></url>
+  <url><loc>https://airocode.com/faculty</loc></url>
+  <url><loc>https://airocode.com/enrollment</loc></url>
+  <url><loc>https://airocode.com/fee-structure</loc></url>
+  <url><loc>https://airocode.com/blog</loc></url>
+  <url><loc>https://airocode.com/faq</loc></url>
+  <url><loc>https://airocode.com/gallery</loc></url>
+  <url><loc>https://airocode.com/placements</loc></url>
+  <url><loc>https://airocode.com/services</loc></url>
+
+  <!-- Training -->
+  <url><loc>https://airocode.com/training</loc></url>
+  <url><loc>https://airocode.com/training/2-months</loc></url>
+  <url><loc>https://airocode.com/training/3-months</loc></url>
+  <url><loc>https://airocode.com/training/6-months</loc></url>
+
+  <!-- Internship -->
+  <url><loc>https://airocode.com/internship</loc></url>
+  <url><loc>https://airocode.com/internship/1-month</loc></url>
+  <url><loc>https://airocode.com/internship/2-months</loc></url>
+  <url><loc>https://airocode.com/internship/3-months</loc></url>
+  <url><loc>https://airocode.com/internship/6-months</loc></url>
+
+  <!-- Testimonials -->
+  <url><loc>https://airocode.com/testimonial</loc></url>
+
+  <!-- Courses -->
+  <url><loc>https://airocode.com/courses/application-full-stack-development</loc></url>
+  <url><loc>https://airocode.com/courses/python-full-stack-development</loc></url>
+  <url><loc>https://airocode.com/courses/data-science-stack-development</loc></url>
+  <url><loc>https://airocode.com/courses/web-full-stack-development</loc></url>
+  <url><loc>https://airocode.com/courses/java-full-stack-development</loc></url>
+  <url><loc>https://airocode.com/courses/mern-stack-development</loc></url>
+  <url><loc>https://airocode.com/courses/mean-stack-development</loc></url>
+  <url><loc>https://airocode.com/courses/ai-ml-stack-development</loc></url>
+
+  <!-- Services -->
+  <url><loc>https://airocode.com/services/digital-marketing</loc></url>
+  <url><loc>https://airocode.com/services/ecommerce-development</loc></url>
+  <url><loc>https://airocode.com/services/mobile-app-development</loc></url>
+  <url><loc>https://airocode.com/services/software-development</loc></url>
+  <url><loc>https://airocode.com/services/web-development</loc></url>
+
+</urlset>
